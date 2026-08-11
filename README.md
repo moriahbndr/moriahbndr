@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 I’m a recent CS graduate of Towson University and I’m currently working on machine learning projects and full-stack applications to continue strengthening my skills across software development, backend systems, and application design.
 
-I am working towards a career in software engineering, full-stack development, software quality assurance, or application development roles. My current focus is on strengthening my technical foundations and working on purposeful projects that I hope will create opportunities for innovation in my next role.
+I am working towards a career in software engineering, full-stack development, software quality assurance, or application development roles. 
+
+My current focus is on strengthening my technical foundations and working on purposeful projects that I hope will create opportunities for innovation in my next role.
