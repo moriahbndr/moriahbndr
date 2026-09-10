@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a recent CS graduate of Towson University and I’m currently working on machine learning projects and full-stack applications to continue strengthening my skills across software development, backend systems, and application design.
+I’m a Software Engineer and recent CS graduate of Towson University and I’m currently working on machine learning projects and full-stack applications to continue strengthening my skills across software development, backend systems, and system design.
 
 I am working towards a career in software engineering, full-stack development, software quality assurance, or application development roles. 
 
