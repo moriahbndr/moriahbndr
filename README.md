@@ -21,6 +21,7 @@ I am working towards a career in software engineering, full-stack development, s
 
 My current focus is on strengthening my technical foundations and working on purposeful projects that I hope will create opportunities for innovation in my next role.
 
-## Tech Stack
+## My Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,cpp,python,ts,js,swift,html,css,react,nodejs,fastapi,git,github,mysql,vscode,xcode)
+![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,ts,js,swift,html,css,react,nodejs,fastapi,git,github,mysql,mongodb,vscode,xcode)
+
