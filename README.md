@@ -20,3 +20,5 @@ I’m a Software Engineer and recent CS graduate of Towson University and I’m 
 I am working towards a career in software engineering, full-stack development, software quality assurance, or application development roles. 
 
 My current focus is on strengthening my technical foundations and working on purposeful projects that I hope will create opportunities for innovation in my next role.
+
+![My Skills](https://skillicons.dev/icons?i=java,cpp,python,ts,js,swift,html,css,react,nodejs,fastapi,git,github,mysql,vscode,xcode)
