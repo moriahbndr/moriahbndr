@@ -25,3 +25,10 @@ My current focus is on strengthening my technical foundations and working on pur
 
 ![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,ts,js,swift,html,css,react,nodejs,fastapi,git,github,mysql,mongodb,vscode,xcode)
 
+## Let's get in touch
+
+https://moriahbender.dev
+LinkedIn: https://www.linkedin.com/in/moriah-bender-a11352126/
+
+
+
