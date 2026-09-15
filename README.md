@@ -27,9 +27,9 @@ My current focus is on strengthening my technical foundations and working on pur
 
 ## Let's get in touch
 
-My website: https://moriahbender.dev
+🌐 My website: https://moriahbender.dev 🌐
 
-LinkedIn: https://www.linkedin.com/in/moriah-bender-a11352126/
+💼 LinkedIn: https://www.linkedin.com/in/moriah-bender-a11352126/ 💼
 
 
 
