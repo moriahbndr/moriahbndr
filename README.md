@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a Software Engineer and a recent Computer Science graduate of Towson University and have experience developing full-stack applications, mobile applications, and machine learning solutions.
+I’m a Jr. Software Engineer and a recent Computer Science graduate of Towson University and have experience developing full-stack applications, mobile applications, and machine learning solutions.
 
 I am working towards a career in software engineering, full-stack development, software quality assurance, or application development roles. 
 
